@@ -14,7 +14,7 @@ const Footer = () => {
             color="text.secondary"
             component="p"
             >
-            Developed by <strong>Shohjahoh</strong> 
+            Developed by <strong>Shohjahon</strong> 
            
             </Typography>
         </Box>
