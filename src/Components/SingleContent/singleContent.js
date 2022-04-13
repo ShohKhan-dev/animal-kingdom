@@ -20,7 +20,7 @@ import { useNavigate, Link } from 'react-router-dom';
 
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { jsonServer } from '../../config';
+import { jsonServerUrl } from '../../config';
 import "./singleContent.css";
 
 
@@ -44,7 +44,7 @@ export default function SingleContent() {
 
     const navigate = useNavigate();
 
-    const api = jsonServer+"/"+id;
+    const api = jsonServerUrl+"/"+id;
 
     const [data, setData] = useState([]);
 
