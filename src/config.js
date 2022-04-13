@@ -3,4 +3,4 @@
 
 // Json server Url:
 export const jsonServerUrl =
-  "http://localhost:5000/animals";
+  "https://animalkingdom-app.herokuapp.com/animals";
