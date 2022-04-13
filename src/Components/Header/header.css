@@ -1,0 +1,28 @@
+
+.navbar{
+  margin-bottom: 20px;
+}
+.header {
+  
+
+  display: flex;
+
+  font-family: "Roboto", sans-serif;
+  /* font-size: 3vw; */
+
+  font-weight: bold;
+  
+}
+
+/* @media (max-width: 1000px) {
+  .header {
+    padding-top: 15px;
+    font-size: 6.4vw;
+  }
+} */
+
+.Header-link{
+  text-decoration: none;
+  color: white;
+
+}

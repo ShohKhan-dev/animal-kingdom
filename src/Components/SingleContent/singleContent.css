@@ -1,0 +1,19 @@
+
+
+.mainContent{
+    margin: 0%;
+}
+
+.avatar{
+    width: 100%;
+    height: auto;
+}
+
+
+.fav{
+    color: grey;
+}
+
+.fav:focus{
+    color: red;
+}
